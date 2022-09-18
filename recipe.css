@@ -1,0 +1,20 @@
+body {
+  background-color: coral;
+}
+
+h1 { 
+    color: blue;
+    }
+p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  margin: 25px 50px 75px;
+}
+h2 {
+  text-transform: uppercase;
+}
+
+li {
+  text-transform: lowercase;
+}
